@@ -5,7 +5,7 @@ from random import randint
 import wave
 import struct
 
-import rfxgenpy.rfxgen as rfxgen
+import rfxgenpy.rfxgenpy as rfxgen
 
 class WaveType(Enum) :
   SQUARE = 0
